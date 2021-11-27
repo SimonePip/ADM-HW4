@@ -1,0 +1,36 @@
+
+*.mp3
+*.wav
+archive/mp3s-32k/all.list
+AudioSignals.ipynb
+.ipynb_checkpoints/HW4-checkpoint.ipynb
+.ipynb_checkpoints/AudioSignals-checkpoint.ipynb
+.ipynb_checkpoints/README-checkpoint.md
+.Rhistory
+Part 1/archive/mp3s-32k/all.list
+Part1/combined_csv.csv
+Part1/combined.pkl
+Part1/all.list
+Part 1/songs.txt
+Part 1/peaks.txt
+Part 1/onset.txt
+Part 1/labels.txt
+Part 1/HW4.ipynb
+Part 1/data.csv
+onset.pkl
+HW4.ipynb
+data.csv
+songs.pkl
+peaks.pkl
+Part1/songs.txt
+Part1/peaks.txt
+Part1/onset.txt
+Part 1/songs.txt
+Part 1/peaks.txt
+Part 1/onset.txt
+Part 1/labels.txt
+Part 1/HW4.ipynb
+Part 1/data.csv
+ex2.ipynb
+.ipynb_checkpoints/ex2-checkpoint.ipynb
+ex2.ipynb
